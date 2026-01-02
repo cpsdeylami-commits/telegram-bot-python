@@ -1,2 +1,2 @@
 # telegram-bot-python
-a bot to assisst customers and arrange bills ,etc
+a bot to assist customers and arrange bills ,etc
